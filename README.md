@@ -44,9 +44,3 @@ Try the live version here:
 [**AI Spotify Playlist Creator**](https://ai-playlist-app.onrender.com/generate_playlist)
 
 ---
-
-## Installation and Setup
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-repo-url.git
-   cd your-repo-folder
