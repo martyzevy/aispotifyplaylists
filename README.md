@@ -41,7 +41,7 @@ This web application allows users to create customized Spotify playlists by desc
 
 ## Live Demo
 Try the live version here:  
-[**AI Spotify Playlist Creator**](https://aispotifyplaylists.martinestrin.com/)
+[**AI Spotify Playlist Creator**](https://ai-playlist-app.onrender.com/generate_playlist)
 
 ---
 
